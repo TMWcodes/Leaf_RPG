@@ -2,5 +2,6 @@ references.md
 node_modules/
 package.json
 package-lock.json
-journal.md
 scrapbook.md
+journal.md
+Design.md
