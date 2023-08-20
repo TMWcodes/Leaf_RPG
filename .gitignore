@@ -3,5 +3,6 @@ node_modules/
 package.json
 package-lock.json
 scrapbook.md
-journal.md
+workingNotes.md
 Design.md
+build.md
