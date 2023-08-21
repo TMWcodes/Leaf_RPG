@@ -15,10 +15,11 @@ body {
   height: 198px;
   margin: 0 auto;
   outline: 1px solid #fff;
-  /* 
-  transform: scale(3) translateY(50%); */
+  /* scales pixel art */
+  transform: scale(2.5) translateY(50%);
 }
 
+/* fixes blur */
 .game-container canvas {
   image-rendering: pixelated;
 }

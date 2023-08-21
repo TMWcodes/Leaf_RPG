@@ -1,8 +1,6 @@
-references.md
 node_modules/
 package.json
 package-lock.json
 scrapbook.md
 workingNotes.md
-Design.md
 build.md
