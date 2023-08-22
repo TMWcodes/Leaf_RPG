@@ -3,7 +3,7 @@
 }
 
 body {
-  background: #333;
+  background: #113b00;
   padding: 0;
   margin: 0;
   overflow: hidden;
@@ -16,7 +16,7 @@ body {
   margin: 0 auto;
   outline: 1px solid #fff;
   /* scales pixel art */
-  transform: scale(2.5) translateY(50%);
+  transform: scale(2) translateY(50%);
 }
 
 /* fixes blur */
