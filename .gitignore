@@ -6,3 +6,5 @@ workingNotes.md
 build.md
 images
 .png
+tests/Person.test.js
+tests/DirectionInput.test.js
