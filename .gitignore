@@ -8,3 +8,4 @@ images
 .png
 tests/Person.test.js
 tests/DirectionInput.test.js
+mechanics.md
